@@ -2,11 +2,7 @@
 # platform :ios, '9.0'
 
 target 'cocoapodsLoginFacebook' do
-  # Comment the next line if you don't want to use dynamic frameworks
-  use_frameworks!
-
-  # Pods for cocoapodsLoginFacebook
-
+  
   pod 'Bolts';
   pod 'FBSDKCoreKit';
   pod 'FBSDKLoginKit';
